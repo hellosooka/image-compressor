@@ -1,4 +1,4 @@
-module github.com/hellosookaimage-compressor
+module github.com/hellosooka/image-compressor
 
 go 1.19
 

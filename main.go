@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/hellosooka/image-compressor/src/walker"
+	"github.com/hellosooka/image-compressor"
 )
 
 func main() {
