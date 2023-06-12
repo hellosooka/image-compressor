@@ -2,7 +2,6 @@ package walker
 
 import (
 	"fmt"
-	"image-compressor/src/constants"
 	"io/fs"
 	"log"
 	"path/filepath"
